@@ -64,7 +64,7 @@ jsonCreator contain two method, `createJson()` and `appendJson()`
 ### createJson()
 createJson() method accepts three parameters `dic`, `"fileName"` and `[“path”]`:
 
-								`jsonCreator.createJson(dic,”fileName”,[“path”])`
+			`jsonCreator.createJson(dic,”fileName”,[“path”])`
 								
 dic  = `dict `dataTypen\
 fileName = `string` dataType\
@@ -83,7 +83,7 @@ To specify a path parameter you must pass the path directory as `string`. And th
 appendJson() method also accepts three parameters dic, "fileName" and [“path”]:
 
 
-    						`jsonCreator.appendJson(dic, "fileName”,[“path”])`
+    			`jsonCreator.appendJson(dic, "fileName”,[“path”])`
 dic = `dict`dataType
 fileName = `string` dataType
 path = `string` dataType
