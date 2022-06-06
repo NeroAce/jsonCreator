@@ -59,7 +59,7 @@ It takes a `dictionary` as input and creates a json file, there is no need to ma
 
 To import  : `import jsonCreator`
 
-jsonCreator contain two method, `createJson()` and `appendJson()`
+jsonCreator contain two function, `createJson()` and `appendJson()`
 .
 ### createJson()
 createJson() method accepts three parameters `dic`, `"fileName"` and `[“path”]`:
